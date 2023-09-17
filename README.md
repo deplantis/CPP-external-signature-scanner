@@ -5,9 +5,10 @@ A c++ program that search a pattern of bytes of the chosen process target
 make a internal version?? = ?? idk
 
 # library
+<pre>
 windows library / api https://learn.microsoft.com/en-us/windows/win32/api/
 NTDLL (undocumented)
-
+</pre>
 # notes 
 only tested on x64 | c++ 17 | release mode 
 
