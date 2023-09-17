@@ -26,7 +26,6 @@ extern "C" NTSYSCALLAPI NTSTATUS ZwWriteVirtualMemory(
 	SIZE_T * lpNumberOfBytesWritten
 );
 
-
 extern "C" NTSYSCALLAPI NTSTATUS NtQueryVirtualMemory(
 	HANDLE                   ProcessHandle,
 	PVOID                    BaseAddress,
